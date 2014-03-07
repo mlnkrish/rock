@@ -1,0 +1,11 @@
+{
+  "name": "rock",
+  "version": "0.0.1",
+  "main": "rock.js",
+  "keywords": ["synchronisation","synchronization","offline", "sync"],
+  "dependencies": {
+        "requirejs": null,
+        "jasmine": null
+  }, 
+  "ignore" : ["docs", "test"]
+}
